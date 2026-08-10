@@ -24,7 +24,7 @@ I design, build, and operate secure, scalable platforms — spanning cloud and o
 |---|---|
 | **Platform & DevOps** | Platform engineering, DevOps practice-building, incident response & production support |
 | **Containers & Orchestration** | Kubernetes, Docker, Helm |
-| **Cloud** | AWS (core), Azure (FinOps) |
+| **Cloud** | AWS, Azure |
 | **CI/CD** | Jenkins, GitHub Actions |
 | **Infrastructure as Code** | Terraform, Ansible |
 | **Systems** | Linux administration, Bash scripting |
